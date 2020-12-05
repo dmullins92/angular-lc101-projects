@@ -1,0 +1,16 @@
+.chores {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: larger;
+    color: red
+}
+
+h3 {
+    text-decoration: underline;
+    font-weight: bolder;
+    color: royalblue     
+}
+
+ul {
+    font-style: italic;
+}
