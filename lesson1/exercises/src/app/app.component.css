@@ -1,0 +1,15 @@
+.container {
+    padding: 25px;
+    column-gap: 50px;
+    column-rule: 5px;
+    column-rule-style: double;
+    background-color: gold;
+}
+
+hr {
+    height: 5px;
+}
+
+body {
+    background-color: goldenrod;
+}
